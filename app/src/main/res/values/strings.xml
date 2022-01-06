@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Assignment1</string>
+    <string name="contact">Contact</string>
+    <string name="home">Home</string>
+    <string name="back_to_main">Back to Main</string>
+    <string name="camera">Open Camera</string>
+</resources>
